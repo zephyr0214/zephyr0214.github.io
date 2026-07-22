@@ -125,6 +125,9 @@
         <li><a href="{{ author.cv_cn | relative_url }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> CV
         (Chinese)</a></li>
       {% endif %}
+      {% if author.score %}
+        <li><a href="{{ author.score | relative_url }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Undergraduate Transcript</a></li>
+      {% endif %}
     </ul>
       <div class="author__urls_sm">
       {% if author.uri %}

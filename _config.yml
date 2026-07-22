@@ -57,8 +57,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv_en            : "files/cv_en.pdf"
+  cv_en            :
   cv_cn            : "files/cv_cn.pdf"
+  score            : "files/score.pdf"
 
 
 # Reading Files
