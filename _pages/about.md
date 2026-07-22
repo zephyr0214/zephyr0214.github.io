@@ -17,18 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About me
+# 👨‍🎓 About me
 
-Yang Zhang is a Junior student in [School of Resources and Civil Engineering(RCE)](http://www.zitu.neu.edu.cn/), [Northeastern University(China)](https://www.neu.edu.cn/). I achieved a GPA of 4.099 out of 5.0, ranking 2nd among 55 students. 
+Yang Zhang is a Junior student in [School of Resources and Civil Engineering(RCE)](http://www.zitu.neu.edu.cn/), [Northeastern University(China)](https://www.neu.edu.cn/). I achieved a GPA of 4.099 out of 5.0, ranking 2nd among 55 students. I have been awarded **the National Scholarship** for two consecutive years, as well as **the Northeastern University Student Scholarship**. Additionally, I was honored with the titles of **Outstanding Student Pacesetter** and **One-Star Volunteer** at Northeastern University.
 
-I have been awarded **the National Scholarship** for two consecutive years, as well as **the Northeastern University Student Scholarship**. Additionally, I was honored with the titles of **Outstanding Student Pacesetter** and **One-Star Volunteer** at Northeastern University.
+My research interests include **multi-sensor navigation, 3D Reconstruction, and AI-integrated GIS**. During my undergraduate studies, I have published **2 software copyrights** as the first author, and co-authored **1 invention patent and 1 utility model patent**.
 
-My research interests include **multi-sensor fusion navigation, SLAM, and AI-integrated GIS**. During my undergraduate studies, I have published **2 software copyrights** as the first author, and co-authored **1 invention patent and 1 utility model patent**.
+I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MCM/ICM)](https://www.comap.com/contests/mcm-icm), the Provincial First Prize in [the Surveying and Mapping Innovation and Entrepreneurship Competition](https://smt.whu.edu.cn/info/1009/7242.htm), and the Provincial First Prize in [the Innovation Method Competition](https://www.lnast.net/academicSociety/20250819/1142489277037281280.html).
 
 # 📖 Educations
 - *2023.08 - Today*, Northeastern University(China),School of Resources and Civil Engineering, Bachelor of Engineering in Surveying and Mapping Engineering
 
-# 📝 Publications 
+# 📝 Software Copyrights
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Software Copyrights</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Intelligent Vehicle Supervision System (V1.0.0)](/files/software01.pdf)
+
+**Yang Zhang**, Yuxing Duan, Yutong Liu, Meng Zhang, Defu Che*
+
+[Computer software]. National Copyright Administration of the People's Republic of China. Registration No. 2025SR1943851.
+</div>
+</div>
+
+<!-- # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,7 +55,7 @@ My research interests include **multi-sensor fusion navigation, SLAM, and AI-int
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

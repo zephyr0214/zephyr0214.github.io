@@ -6,8 +6,14 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Publications"
-    url: "/#-publications"
+  # - title: "Publications"
+  #   url: "/#-publications"
+
+  - title: "Patents"
+    url: "/#-patents"
+
+  - title: "Software Copyrights"
+    url: "/#-software-copyrights"
 
   - title: "Research Experience"
     url: "/#-research-experience"
