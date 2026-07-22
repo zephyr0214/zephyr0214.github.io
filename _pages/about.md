@@ -30,7 +30,7 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
 
 # 📚 Research Experience
 
-  ## 2024.11 - 2026.03, Development and Application of Multi-Sensor Based Intelligent Vehicle Supervision System
+## 2024.11 - 2026.03, Development and Application of Multi-Sensor Based Intelligent Vehicle Supervision System
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -127,7 +127,7 @@ Researcher
 - *2024.09*, Northeastern University Outstanding Student First-Prize Scholarship
 - *2025.09*, Northeastern University Outstanding Student Second-Prize Scholarship
 
-![Scholarships and Honors](/honor01.png "Scholarships and Honors")
+![Scholarships and Honors](images/honor01.png "Scholarships and Honors")
 
 ## Honors
 
@@ -142,11 +142,11 @@ Researcher
 - *2025.11*, **First Prize of Liaoning Province**, Liaoning Provincial Innovation Methods Competition
 - *2025.10*, **Second Prize of Liaoning Province**, National College Student Mathematical Modeling Competition
 
-![Competitions](/honor02.png "Competitions")
+![Competitions](images/honor02.png "Competitions")
 
 ## Others
 
-![Others](/honor03.png "Others")
+![Others](images/honor03.png "Others")
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
