@@ -30,7 +30,7 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
 
 # 📚 Research Experience
 
-### National Undergraduate Training Program for Innovation and Entrepreneurship
+## 1. National Undergraduate Training Program for Innovation and Entrepreneurship
 
 <div class='paper-box'>
   <div class='paper-box-image'>
