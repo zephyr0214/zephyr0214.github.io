@@ -69,6 +69,25 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
   </div>
 </div>
 
+[Undergraduate Research Training, Northeastern University]
+
+**Research on Lightweight Processing Methods for Oblique Photography 3D Models**
+
+Researcher | Sep 2025 – Dec 2025
+
+- Addressed challenges of large data volume and low rendering efficiency in oblique photography by reproducing an improved QEM (Quadric Error Metrics) algorithm.
+- Introduced curvature constraints and boundary protection mechanisms to optimize the geometry and texture of 3D models while maintaining visual fidelity.
+Developed an integrated lightweight processing tool prototype using C++, OSG (OpenSceneGraph), and Qt.
+
+[Undergraduate Research Training, Northeastern University]
+
+**Digital Twin Scene Construction and System Development Based on Multi-Source Model Fusion**
+
+Researcher | Mar 2026 – Jun 2026
+
+- Constructed a preliminary WebGIS platform based on Three.js to facilitate the fusion of multi-source models within digital twin scenarios.
+- Implemented interactive visualization features to support the seamless display and manipulation of heterogeneous spatial data.
+
 # 💻 Software Copyrights
 
 - **Yang Zhang**, Yuxing Duan, Yutong Liu, Meng Zhang, Defu Che*(2025). [*Intelligent Vehicle Supervision System (V1.0.0)*](/files/software01.pdf)[Computer software]. National Copyright Administration of the People's Republic of China. Registration No. 2025SR1943851.
