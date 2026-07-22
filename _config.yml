@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yang Zhang"
-description              : "Ungraduate | Navigation, 3D Models, GIS"
+description              : "Ungraduate Students \n Navigation, 3D Reconstruction, GIS"
 repository               : "All0zy/All0zy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yang Zhang | 张洋"
-  avatar           : "images/avatar.jpg"
+  avatar           : "images/avatar-blue.jpg"
   bio              : "Northeastern University"
   location         : "Changzhi, Shanxi, China"
   employer         :
