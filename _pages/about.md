@@ -77,7 +77,7 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 
 ## Scholarships
 
@@ -94,8 +94,8 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
 
 ## Competitions
 
-- *2025.05* **Honorable Mention**, Mathematical Contest in Modeling (MCM/ICM)
-- *2026.06* **First Prize of Liaoning Province**, Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition
+- *2025.05*, **Honorable Mention**, Mathematical Contest in Modeling (MCM/ICM)
+- *2026.06*, **First Prize of Liaoning Province**, Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition
 - *2025.11*, **First Prize of Liaoning Province**, Liaoning Provincial Innovation Methods Competition
 - *2025.10*, **Second Prize of Liaoning Province**, National College Student Mathematical Modeling Competition    
 
@@ -105,3 +105,10 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# 🏫 Leadership Experience
+
+- *2023.09 - Today*, **Study Commissary**, Class of Surveying and Mapping Engineering 2301
+- *2023.09 - 2025.07*, **Minister of the Publicity and Design Department**,
+ Northeastern University Student Volunteer Association
+- *2024.07 - 2025.07*, **Member of the Publicity Department**, Party School of the School of Resources and Civil Engineering, Northeastern University
