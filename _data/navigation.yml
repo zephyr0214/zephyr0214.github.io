@@ -9,14 +9,14 @@ main:
   # - title: "Publications"
   #   url: "/#-publications"
 
-  - title: "Patents"
-    url: "/#-patents"
+  - title: "Research Experience"
+    url: "/#-research-experience"
 
   - title: "Software Copyrights"
     url: "/#-software-copyrights"
 
-  - title: "Research Experience"
-    url: "/#-research-experience"
+  - title: "Patents"
+    url: "/#-patents"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
