@@ -30,22 +30,22 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
 
 # 📚 Research Experience
 
-## 1. National Undergraduate Training Program for Innovation and Entrepreneurship
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <div class="badge">National</div>
+      <img src='images/re01.jpg' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+  [National Undergraduate Innovation and Entrepreneurship Training Program]
 
-  **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  [Development and Application of Multi-Sensor Based Intelligent Vehicle Supervision System](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-  [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+  **Yang Zhang (Project Leader)**, Yuxing Duan, Meng Zhang
 
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  - Spearheaded the full-stack development of a dual-end supervision platform (Mobile & Web) using Node.js, Vue.js, and MySQL, integrating IoT platforms for real-time data acquisition and preprocessing.
+  - Secured 2 Software Copyrights (Vehicle Online Application System, Vehicle Intelligent Supervision System) and 1 Utility Model Patent (Mining Convoy Supervision Device based on MCU & Multi-sensors).
   </div>
 </div>
 
