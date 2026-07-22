@@ -30,6 +30,8 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
 
 # 📚 Research Experience
 
+  ## 2024.11 - 2026.03, Development and Application of Multi-Sensor Based Intelligent Vehicle Supervision System
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -38,8 +40,6 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-
-  **[Nov 2024 – Mar 2026]Development and Application of Multi-Sensor Based Intelligent Vehicle Supervision System**
 
   [National Undergraduate Innovation and Entrepreneurship Training Program]
 
@@ -50,6 +50,8 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
   </div>
 </div>
 
+## 2024.11 - 2026.03, Mining Area Disaster Monitoring and Early Warning Platform Development
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -59,11 +61,9 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
   </div>
   <div class='paper-box-text' markdown="1">
 
-  **[Sep 2025 – Dec 2025]Mining Area Disaster Monitoring and Early Warning Platform Development**
-
   [Provincial Undergraduate Innovation and Entrepreneurship Training Program]
 
-  Member
+  Researcher
 
   - Engineered data preprocessing pipelines and API interfaces for a comprehensive monitoring system supporting risk assessment, numerical simulation, subsidence monitoring, and early warning analysis.
   - Led frontend development to visualize complex mining data, enhancing situational awareness for disaster prevention.
@@ -71,7 +71,7 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
   </div>
 </div>
 
-**[Sep 2025 – Dec 2025]Research on Lightweight Processing Methods for Oblique Photography 3D Models**
+## 2025.09 - 2025.12, Research on Lightweight Processing Methods for Oblique Photography 3D Models
 
 [Undergraduate Research Training, Northeastern University]
 
@@ -81,7 +81,7 @@ Researcher
 - Introduced curvature constraints and boundary protection mechanisms to optimize the geometry and texture of 3D models while maintaining visual fidelity.
 Developed an integrated lightweight processing tool prototype using C++, OSG (OpenSceneGraph), and Qt.
 
-**[Mar 2026 – Jun 2026]Digital Twin Scene Construction and System Development Based on Multi-Source Model Fusion**
+## 2026.03 - 2026.06, Digital Twin Scene Construction and System Development Based on Multi-Source Model Fusion
 
 [Undergraduate Research Training, Northeastern University]
 
@@ -127,6 +127,8 @@ Researcher
 - *2024.09*, Northeastern University Outstanding Student First-Prize Scholarship
 - *2025.09*, Northeastern University Outstanding Student Second-Prize Scholarship
 
+![Scholarships and Honors](/honor01.png "Scholarships and Honors")
+
 ## Honors
 
 - *2025.09*, Northeastern University Model Outstanding Student
@@ -138,7 +140,13 @@ Researcher
 - *2025.05*, **Honorable Mention**, Mathematical Contest in Modeling (MCM/ICM)
 - *2026.06*, **First Prize of Liaoning Province**, Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition
 - *2025.11*, **First Prize of Liaoning Province**, Liaoning Provincial Innovation Methods Competition
-- *2025.10*, **Second Prize of Liaoning Province**, National College Student Mathematical Modeling Competition    
+- *2025.10*, **Second Prize of Liaoning Province**, National College Student Mathematical Modeling Competition
+
+![Competitions](/honor02.png "Competitions")
+
+## Others
+
+![Others](/honor03.png "Others")
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
