@@ -26,7 +26,7 @@ My research interests include **multi-sensor navigation, 3D Reconstruction, and 
 I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MCM/ICM)](https://www.comap.com/contests/mcm-icm), the Provincial First Prize in [the Surveying and Mapping Innovation and Entrepreneurship Competition](https://smt.whu.edu.cn/info/1009/7242.htm), and the Provincial First Prize in [the Innovation Method Competition](https://www.lnast.net/academicSociety/20250819/1142489277037281280.html).
 
 # 📖 Educations
-- *2023.08 - Today*, Northeastern University(China), School of Resources and Civil Engineering, Bachelor of Engineering in Surveying and Mapping Engineering
+- *2023.08 - Today*, [Northeastern University(China)](https://www.neu.edu.cn/), [School of Resources and Civil Engineering](http://www.zitu.neu.edu.cn/), Bachelor of Engineering in Surveying and Mapping Engineering
 
 # 📚 Research Experience
 
@@ -78,12 +78,30 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
+## Scholarships
+
+- *2024.09*, 2023-2024 National Scholarship for Undergraduate Students
+- *2025.09*, 2024-2025 National Scholarship for Undergraduate Students
+- *2024.09*, Northeastern University Outstanding Student First-Prize Scholarship
+- *2025.09*, Northeastern University Outstanding Student Second-Prize Scholarship
+
+## Honors
+
+- *2025.09*, Northeastern University Model Outstanding Student
+- *2024.09*, Northeastern University Outstanding Student
+- *2024.11*, Northeastern University One-Star Volunteer
+
+## Competitions
+
+- *2025.05* **Honorable Mention**, Mathematical Contest in Modeling (MCM/ICM)
+- *2026.06* **First Prize of Liaoning Province**, Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition
+- *2025.11*, **First Prize of Liaoning Province**, Liaoning Provincial Innovation Methods Competition
+- *2025.10*, **Second Prize of Liaoning Province**, National College Student Mathematical Modeling Competition    
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
