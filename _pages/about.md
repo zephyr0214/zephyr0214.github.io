@@ -122,12 +122,12 @@ Researcher
 
 ## Scholarships
 
+![Scholarships and Honors](/images/honor01.jpg "Scholarships and Honors")
+
 - *2024.09*, 2023-2024 National Scholarship for Undergraduate Students
 - *2025.09*, 2024-2025 National Scholarship for Undergraduate Students
 - *2024.09*, Northeastern University Outstanding Student First-Prize Scholarship
 - *2025.09*, Northeastern University Outstanding Student Second-Prize Scholarship
-
-![Scholarships and Honors](/images/honor01.jpg "Scholarships and Honors")
 
 ## Honors
 
@@ -137,16 +137,16 @@ Researcher
 
 ## Competitions
 
+![Scholarships and Honors](/images/honor01.jpg "Scholarships and Honors")
+
 - *2025.05*, **Honorable Mention**, Mathematical Contest in Modeling (MCM/ICM)
 - *2026.06*, **First Prize of Liaoning Province**, Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition
 - *2025.11*, **First Prize of Liaoning Province**, Liaoning Provincial Innovation Methods Competition
 - *2025.10*, **Second Prize of Liaoning Province**, National College Student Mathematical Modeling Competition
 
-![Competitions](/images/honor02.jpg "Competitions")
-
 ## Others
 
-![Others](/images/honor03.jpg "Others")
+![Others](/images/honor03.png "Others")
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
