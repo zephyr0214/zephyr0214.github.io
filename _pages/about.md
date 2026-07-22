@@ -122,7 +122,7 @@ Researcher
 
 ## Scholarships
 
-<p align="center"><img src="/images/honor01.jpg" alt="Scholarships and Honors" width="60%"></p>
+<p align="center"><img src="/images/honor01.jpg" alt="Scholarships and Honors" width="80%"></p>
 
 - *2024.09*, 2023-2024 National Scholarship for Undergraduate Students
 - *2025.09*, 2024-2025 National Scholarship for Undergraduate Students
@@ -137,7 +137,7 @@ Researcher
 
 ## Competitions
 
-![Scholarships and Honors](/images/honor01.jpg "Scholarships and Honors")
+<p align="center"><img src="/images/honor02.jpg" alt="Competitions" width="80%"></p>
 
 - *2025.05*, **Honorable Mention**, Mathematical Contest in Modeling (MCM/ICM)
 - *2026.06*, **First Prize of Liaoning Province**, Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition
@@ -146,7 +146,7 @@ Researcher
 
 ## Others
 
-![Others](/images/honor03.png "Others")
+<p align="center"><img src="/images/honor03.png" alt="Others" width="80%"></p>
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
