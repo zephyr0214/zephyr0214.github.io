@@ -214,10 +214,14 @@
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.cv_en %}
-        <a href="{{ author.cv_en}}"><i class="fas fa-fw fa-file-alt" aria-hidden="true">CV (English)</i></a>
+        <a href="{{ author.cv_en | relative_url }}" title="English CV" aria-label="English CV">
+          <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i>
+        </a>
       {% endif %}
       {% if author.cv_cn %}
-        <a href="{{ author.cv_cn}}"><i class="fas fa-fw fa-file-alt" aria-hidden="true">CV (Chinese)</i></a>
+        <a href="{{ author.cv_cn | relative_url }}" title="中文简历" aria-label="中文简历">
+          <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i>
+        </a>
       {% endif %}
     </div>
   </div>
