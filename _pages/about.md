@@ -30,10 +30,11 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
 
 # 📚 Research Experience
 
+1. **National Undergraduate Training Program for Innovation and Entrepreneurship**
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">National Undergraduate Training Program for Innovation and Entrepreneurship</div>
       <img src='images/500x300.png' alt="sym" width="100%">
     </div>
   </div>
