@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨‍🎓 About me
 
-I am a junior in the [School of Resources and Civil Engineering (RCE)](http://www.zitu.neu.edu.cn/), [Northeastern University (China)](https://www.neu.edu.cn/). I achieved a GPA of 4.099 out of 5.0, ranking 2nd among 55 students. I have been awarded **the National Scholarship** for two consecutive years, as well as **the Northeastern University Student Scholarship**. Additionally, I was honored with the titles of **Outstanding Student Model** and **One-Star Volunteer** at Northeastern University.
+I am a junior in the [School of Resources and Civil Engineering (RCE)](http://www.zitu.neu.edu.cn/), [Northeastern University (China)](https://www.neu.edu.cn/). I achieved a GPA of 4.165 out of 5.0, ranking 1st among 55 students. I have been awarded **the National Scholarship** for two consecutive years, as well as **the Northeastern University Student Scholarship**. Additionally, I was honored with the titles of **Outstanding Student Model** and **One-Star Volunteer** at Northeastern University.
 
 My research interests include **multi-sensor navigation, 3D reconstruction, and AI-integrated GIS**. During my undergraduate studies, I have registered **two software copyrights** as the first author, and co-invented **one invention patent and one utility model patent**.
 
