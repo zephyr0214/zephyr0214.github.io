@@ -141,6 +141,7 @@ h1:before, .anchor:before {
   border-radius: 50%;
   background-color: #00369f;
   z-index: 2;
+  transform: translateX(-50%);
 }
 .timeline-time {
   font-size: 0.9rem;

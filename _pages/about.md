@@ -80,8 +80,6 @@ Researcher
 - Zibo Wen, Yingjie Chen, Meng Ao, Lianhuan Wei, Yuan Dai, **Yang Zhang**, Shanjun Liu. (2026). [*Multi-factor Coupled Early Warning Method, Device, Equipment and Medium for Mining Disasters*](/files/patent02.pdf). China Invention Patent, Patent No. ZL 2026 1 0038773.1.
 
 # 🏆 Honors and Awards
-<p align="center"><img src="/images/honor01.jpg" alt="Scholarships and Honors" width="80%"></p>
-
 ## Scholarships
 <div class="timeline-wrap">
   <div class="timeline-item">
@@ -100,6 +98,8 @@ Researcher
   </div>
 </div>
 
+<p align="center"><img src="/images/honor01.jpg" alt="Scholarships and Honors" width="80%"></p>
+
 ## Honors
 <div class="timeline-wrap">
   <div class="timeline-item">
@@ -117,7 +117,7 @@ Researcher
 </div>
 
 ## Competitions
-<p align="center"><img src="/images/honor02.jpg" alt="Competitions" width="80%"></p>
+
 <div class="timeline-wrap">
   <div class="timeline-item">
     <span class="timeline-time">2026.06</span>
@@ -137,8 +137,9 @@ Researcher
   </div>
 </div>
 
+<p align="center"><img src="/images/honor02.jpg" alt="Competitions" width="80%"></p>
+
 ## Others
-<p align="center"><img src="/images/honor03.jpg" alt="Others" width="80%"></p>
 <div class="timeline-wrap">
   <div class="timeline-item">
     <span class="timeline-time">2023.09 - Present</span>
@@ -153,3 +154,5 @@ Researcher
     <div class="timeline-content">Member of Publicity Department, School Party School</div>
   </div>
 </div>
+
+<p align="center"><img src="/images/honor03.png" alt="Others" width="80%"></p>
