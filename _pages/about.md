@@ -22,7 +22,13 @@ My research interests include **multi-sensor navigation, 3D reconstruction, and 
 I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MCM/ICM)](https://www.comap.com/contests/mcm-icm), the Provincial First Prize in [the Surveying and Mapping Innovation and Entrepreneurship Competition](https://smt.whu.edu.cn/info/1009/7242.htm), and the Provincial First Prize in [the Innovation Method Competition](https://www.lnast.net/academicSociety/20250819/1142489277037281280.html).
 
 # 📖 Educations
-- *2023.08 - Present*, [Northeastern University (China)](https://www.neu.edu.cn/), [School of Resources and Civil Engineering](http://www.zitu.neu.edu.cn/), Bachelor of Engineering in Surveying and Mapping Engineering
+
+<div class="timeline-wrap">
+  <div class="timeline-item">
+    <span class="timeline-time">2023.08 - Present</span>
+    <div class="timeline-content"><strong>[Northeastern University (China)](https://www.neu.edu.cn/)</strong>, [School of Resources and Civil Engineering](http://www.zitu.neu.edu.cn/), Bachelor of Engineering in Surveying and Mapping Engineering</div>
+  </div>
+</div>
 
 # 📚 Research Experience
 ## 2024.11 - 2026.03, Development and Application of Multi-Sensor Based Intelligent Vehicle Supervision System
