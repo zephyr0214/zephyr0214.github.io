@@ -108,39 +108,43 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-/* ===================== 新增：获奖纵向时间轴 Timeline 样式 ===================== */
+/* ===================== 获奖纵向时间轴 Timeline 样式【修正居中版本】 ===================== */
 .timeline-wrap {
   margin: 1.5rem 0 3rem;
-  padding-left: 1.2rem;
   position: relative;
+  /* 基准线横坐标：统一控制竖线和圆点位置 */
+  --timeline-axis-x: 10px;
 }
 /* 时间轴竖线 */
 .timeline-wrap::before {
   content: "";
   position: absolute;
-  left: 0;
+  left: var(--timeline-axis-x);
   top: 0;
   bottom: 0;
   width: 2px;
   background-color: #00369f;
   opacity: 0.3;
+  /* 让竖线自身以该坐标水平居中 */
+  transform: translateX(-50%);
 }
 .timeline-item {
   position: relative;
   margin-bottom: 1.8rem;
-  padding-left: 1.8rem;
+  padding-left: 2rem;
 }
 /* 时间轴圆点 */
 .timeline-item::before {
   content: "";
   position: absolute;
-  left: -1.3rem;
+  left: var(--timeline-axis-x);
   top: 0.3rem;
   width: 10px;
   height: 10px;
   border-radius: 50%;
   background-color: #00369f;
   z-index: 2;
+  /* 圆心对准基准坐标，完美贴合竖线中心 */
   transform: translateX(-50%);
 }
 .timeline-time {
@@ -151,13 +155,11 @@ h1:before, .anchor:before {
   display: block;
 }
 .timeline-content {
-  font-size: 0.98rem;
   line-height: 1.6;
 }
 .timeline-content strong {
   color: #00369f;
 }
-/* 分类小标题（Scholarships / Competitions 等） */
 .timeline-title {
   font-size: 1.15rem;
   margin: 2.2rem 0 1rem;
@@ -166,10 +168,7 @@ h1:before, .anchor:before {
 }
 /* 移动端适配 */
 @include breakpoint($small) {
-  .timeline-wrap {
-    padding-left: 0.8rem;
-  }
   .timeline-item {
-    padding-left: 1.4rem;
+    padding-left: 1.6rem;
   }
 }
