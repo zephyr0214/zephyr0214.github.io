@@ -21,8 +21,8 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
   
-  - title: "Leadership Experience"
-    url: "/#-leadership-experience"
+  # - title: "Leadership Experience"
+  #   url: "/#-leadership-experience"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
