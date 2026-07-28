@@ -157,15 +157,15 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
 <div class="timeline-wrap">
   <div class="timeline-item">
     <span class="timeline-time">2023.09 - Present</span>
-    <div class="timeline-content">Class Study Monitor, Surveying and Mapping Engineering 2301</div>
+    <div class="timeline-content"><strong>Class Study Monitor</strong>, Surveying and Mapping Engineering 2301</div>
   </div>
   <div class="timeline-item">
     <span class="timeline-time">2023.09 - 2025.07</span>
-    <div class="timeline-content">Minister of Publicity and Design Department, Student Volunteer Association</div>
+    <div class="timeline-content"><strong>Minister of Publicity and Design Department</strong>, Student Volunteer Association</div>
   </div>
   <div class="timeline-item">
     <span class="timeline-time">2024.07 - 2025.07</span>
-    <div class="timeline-content">Member of Publicity Department, School Party School</div>
+    <div class="timeline-content"><strong>Member of Publicity Department</strong>, School Party School</div>
   </div>
 </div>
 
