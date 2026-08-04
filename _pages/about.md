@@ -134,8 +134,8 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
 
 <div class="timeline-wrap">
   <div class="timeline-item">
-    <span class="timeline-time">2026.06</span>
-    <div class="timeline-content"><strong>Liaoning Provincial First Prize</strong>, Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition</div>
+    <span class="timeline-time">2026.8</span>
+    <div class="timeline-content"><strong>National Grand Prize</strong>, Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition</div>
   </div>
   <div class="timeline-item">
     <span class="timeline-time">2025.11</span>
