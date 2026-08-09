@@ -23,6 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yang Zhang | 张洋"
+  name_zh          : "张洋"
   avatar           : "images/avatar-blue.jpg"
   bio              : "Northeastern University"
   bio_zh           : "东北大学"
