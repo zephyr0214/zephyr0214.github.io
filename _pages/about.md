@@ -39,7 +39,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">国家级</div>
-      <img src='images/re01.png' alt="sym" width="100%">
+      <img src='/images/re01.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -57,7 +57,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">省级</div>
-      <img src='images/re02.png' alt="sym" width="100%">
+      <img src='/images/re02.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
