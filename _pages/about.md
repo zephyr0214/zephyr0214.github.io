@@ -21,6 +21,7 @@ My research interests include **multi-sensor navigation, 3D reconstruction, and 
 
 I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MCM/ICM)](https://www.comap.com/contests/mcm-icm), the Provincial First Prize in [the Surveying and Mapping Innovation and Entrepreneurship Competition](https://smt.whu.edu.cn/info/1009/7242.htm), and the Provincial First Prize in [the Innovation Method Competition](https://www.lnast.net/academicSociety/20250819/1142489277037281280.html).
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 
 <div class="timeline-wrap">
@@ -30,6 +31,7 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
   </div>
 </div>
 
+<span class='anchor' id='research-experience'></span>
 # 📚 Research Experience
 ## 2024.11 - 2026.03, Development and Application of Multi-Sensor Based Intelligent Vehicle Supervision System
 <div class='paper-box'>
@@ -85,14 +87,17 @@ I was awarded the Honorable Mention in [the Mathematical Contest in Modeling (MC
 - Constructed a preliminary WebGIS platform based on Three.js to facilitate the fusion of multi-source models within digital twin scenarios.
 - Implemented interactive visualization features to support the seamless display and manipulation of heterogeneous spatial data.
 
+<span class='anchor' id='software-copyrights'></span>
 # 💻 Software Copyrights
 - **Yang Zhang**, Yuxing Duan, Yutong Liu, Meng Zhang, Defu Che*(2025). [*Intelligent Vehicle Supervision System (V1.0.0)*](/files/software01.pdf)[Computer software]. National Copyright Administration of the People's Republic of China. Registration No. 2025SR1943851.
 - **Yang Zhang**, Yuxing Duan, Chaoyang Yan, Meng Zhang, Defu Che* (2025). [*Online Vehicle Service Application System (V1.0.0)*](/files/software02.pdf)[Computer software]. National Copyright Administration of the People's Republic of China. Registration No. 2025SR1943800.
 
+<span class='anchor' id='patents'></span>
 # 💡 Patents
 - Yuxing Duan, **Yang Zhang**, Haochen Liu, Chunsheng Ji, Defu Che. (2025). [*Mining Vehicle Convoy Supervision Equipment Based on Microcontroller and Multi-sensors*](/files/patent01.pdf). China Utility Model Patent, Patent No. ZL 2025 2 1843307.8.
 - Zibo Wen, Yingjie Chen, Meng Ao, Lianhuan Wei, Yuan Dai, **Yang Zhang**, Shanjun Liu. (2026). [*Multi-factor Coupled Early Warning Method, Device, Equipment and Medium for Mining Disasters*](/files/patent02.pdf). China Invention Patent, Patent No. ZL 2026 1 0038773.1.
 
+<span class='anchor' id='honors-and-awards'></span>
 # 🏆 Honors and Awards
 ## Scholarships
 <div class="timeline-wrap">

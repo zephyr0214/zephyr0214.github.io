@@ -4,22 +4,22 @@ main:
     url: "/#about-me"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   # - title: "Publications"
   #   url: "/#-publications"
 
   - title: "Research Experience"
-    url: "/#-research-experience"
+    url: "/#research-experience"
 
   - title: "Software Copyrights"
-    url: "/#-software-copyrights"
+    url: "/#software-copyrights"
 
   - title: "Patents"
-    url: "/#-patents"
+    url: "/#patents"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Posts"
     url: "/posts"
