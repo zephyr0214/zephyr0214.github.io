@@ -2,6 +2,20 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
+{% if page.lang == 'en' %}
+  {% assign t_website = "Website" %}
+  {% assign t_email = "Email" %}
+  {% assign t_cv_en = "CV (English)" %}
+  {% assign t_cv_cn = "CV (Chinese)" %}
+  {% assign t_transcript = "Undergraduate Transcript" %}
+{% else %}
+  {% assign t_website = "网站" %}
+  {% assign t_email = "邮箱" %}
+  {% assign t_cv_en = "简历（英文）" %}
+  {% assign t_cv_cn = "简历（中文）" %}
+  {% assign t_transcript = "成绩单" %}
+{% endif %}
+
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
@@ -10,7 +24,7 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if page.lang == 'en' and author.bio %}<p class="author__bio">{{ author.bio }}</p>{% elsif author.bio_zh %}<p class="author__bio">{{ author.bio_zh }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -21,17 +35,21 @@
       {% elsif site.description_zh %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description_zh }}</div></li>
       {% endif %}
-      {% if author.location %}
+      {% if page.lang == 'en' and author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+      {% elsif author.location_zh %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location_zh }}</li>
       {% endif %}
-      {% if author.employer %}
+      {% if page.lang == 'en' and author.employer %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+      {% elsif author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
-        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ t_website }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ t_email }}</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -67,7 +85,7 @@
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
       {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
@@ -121,14 +139,13 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
       {% if author.cv_en %}
-        <li><a href="{{ author.cv_en | relative_url }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> CV (English)</a></li>
+        <li><a href="{{ author.cv_en | relative_url }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> {{ t_cv_en }}</a></li>
       {% endif %}
       {% if author.cv_cn %}
-        <li><a href="{{ author.cv_cn | relative_url }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> CV
-        (Chinese)</a></li>
+        <li><a href="{{ author.cv_cn | relative_url }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> {{ t_cv_cn }}</a></li>
       {% endif %}
       {% if author.score %}
-        <li><a href="{{ author.score | relative_url }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Undergraduate Transcript</a></li>
+        <li><a href="{{ author.score | relative_url }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> {{ t_transcript }}</a></li>
       {% endif %}
     </ul>
       <div class="author__urls_sm">

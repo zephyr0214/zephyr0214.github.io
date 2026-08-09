@@ -25,7 +25,9 @@ author:
   name             : "Yang Zhang | 张洋"
   avatar           : "images/avatar-blue.jpg"
   bio              : "Northeastern University"
+  bio_zh           : "东北大学"
   location         : "Changzhi, Shanxi, China"
+  location_zh      : "山西长治，中国"
   employer         :
   pubmed           : 
   googlescholar    : 

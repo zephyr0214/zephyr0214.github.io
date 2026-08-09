@@ -15,10 +15,10 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
-# 👨‍🎓 关于我
-我是[东北大学](https://www.neu.edu.cn/)[资源与土木工程学院](http://www.zitu.neu.edu.cn/)测绘工程专业的一名大三本科生。我的 GPA 为 4.165/5.0，在专业 55 名学生中排名第一。我连续两年获得**国家奖学金**，并获得**东北大学优秀学生奖学金**；此外还荣获**东北大学优秀学生标兵**和**东北大学一星志愿者**等称号。
+# 👨‍🎓 个人介绍
+我是[东北大学](https://www.neu.edu.cn/)[资源与土木工程学院](http://www.zitu.neu.edu.cn/)测绘工程专业的一名大三本科生。我的 GPA 为 4.165/5.0，专业排名 1/55。我连续两年获得**国家奖学金**、**东北大学优秀学生奖学金**；此外还荣获**东北大学优秀学生标兵**和**东北大学一星志愿者**等荣誉称号。
 
-我的研究兴趣包括**多传感器导航、三维重建以及 AI 与 GIS 融合**。本科期间，我以第一作者登记了**两项软件著作权**，并参与发明了**一项发明专利和一项实用新型专利**。
+我的研究兴趣包括**多传感器导航、三维重建以及遥感大模型**。本科期间，我以第一作者发表了**两项软件著作权**，并参与发明了**一项发明专利和一项实用新型专利**。
 
 我曾获得[美国大学生数学建模竞赛（MCM/ICM）](https://www.comap.com/contests/mcm-icm)Honorable Mention 奖、[全国大学生测绘学科创新创业智能大赛](https://smt.whu.edu.cn/info/1009/7242.htm)省级一等奖，以及[辽宁省创新方法大赛](https://www.lnast.net/academicSociety/20250819/1142489277037281280.html)省级一等奖。
 
@@ -34,7 +34,7 @@ redirect_from:
 
 <span class='anchor' id='research-experience'></span>
 # 📚 科研经历
-## 2024.11 - 2026.03，基于多传感器的智能车辆监控系统研发与应用
+## 2024.11 - 2026.03，基于多传感器的智能车辆监控系统开发与应用
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
