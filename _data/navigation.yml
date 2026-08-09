@@ -1,41 +1,43 @@
-# main links (zh = 中文界面, en = English interface)
-zh:
-  - title: "教育经历"
-    url: "/#educations"
+# 导航项同时包含中英文标题与 URL，由模板按语言渲染
+main:
+  - key: about
+    zh: "首页"
+    en: "Homepage"
+    url_zh: "/#about-me"
+    url_en: "/en/#about-me"
 
-  - title: "科研经历"
-    url: "/#research-experience"
+  - key: educations
+    zh: "教育经历"
+    en: "Educations"
+    url_zh: "/#educations"
+    url_en: "/en/#educations"
 
-  - title: "软件著作权"
-    url: "/#software-copyrights"
+  - key: research
+    zh: "科研经历"
+    en: "Research Experience"
+    url_zh: "/#research-experience"
+    url_en: "/en/#research-experience"
 
-  - title: "专利"
-    url: "/#patents"
+  - key: software
+    zh: "软件著作权"
+    en: "Software Copyrights"
+    url_zh: "/#software-copyrights"
+    url_en: "/en/#software-copyrights"
 
-  - title: "荣誉奖项"
-    url: "/#honors-and-awards"
+  - key: patents
+    zh: "专利"
+    en: "Patents"
+    url_zh: "/#patents"
+    url_en: "/en/#patents"
 
-  - title: "博文"
-    url: "/posts/"
+  - key: honors
+    zh: "荣誉奖项"
+    en: "Honors and Awards"
+    url_zh: "/#honors-and-awards"
+    url_en: "/en/#honors-and-awards"
 
-en:
-  - title: "About Me"
-    url: "/en/#about-me"
-
-  - title: "Educations"
-    url: "/en/#educations"
-
-  - title: "Research Experience"
-    url: "/en/#research-experience"
-
-  - title: "Software Copyrights"
-    url: "/en/#software-copyrights"
-
-  - title: "Patents"
-    url: "/en/#patents"
-
-  - title: "Honors and Awards"
-    url: "/en/#honors-and-awards"
-
-  - title: "Posts"
-    url: "/en/posts/"
+  - key: posts
+    zh: "博文"
+    en: "Posts"
+    url_zh: "/posts/"
+    url_en: "/en/posts/"

@@ -2,6 +2,26 @@
 
 {% include seo.html %}
 
+<style>
+  .i18n.en { display: none; }
+  .ui-en .i18n.zh { display: none; }
+  .ui-en .i18n.en { display: inline; }
+</style>
+<script>
+  (function () {
+    var m = location.search.match(/[?&]lang=(en|zh)/i);
+    if (!m) return;
+    var root = document.documentElement;
+    if (m[1] === 'en') {
+      root.classList.add('ui-en');
+      root.lang = 'en';
+    } else {
+      root.classList.remove('ui-en');
+      root.lang = 'zh-CN';
+    }
+  })();
+</script>
+
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">

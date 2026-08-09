@@ -4,12 +4,12 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="{% if page.lang == 'en' %}/en/#about-me{% else %}/#about-me{% endif %}">{% if page.lang == 'en' %}Homepage{% else %}首页{% endif %}</a></li>
-          {% assign nav_items = site.data.navigation[page.lang] | default: site.data.navigation.zh %}
-          {% for link in nav_items %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          {% for item in site.data.navigation.main %}
+            <li class="masthead__menu-item{% if forloop.first %} masthead__menu-item--lg masthead__menu-home-item{% endif %}">
+              <a href="{{ domain }}{% if page.lang == 'en' %}{{ item.url_en }}{% else %}{{ item.url_zh }}{% endif %}"{% if item.url_en != item.url_zh %} data-en-href="{{ domain }}{{ item.url_en }}"{% endif %}><span class="i18n zh">{{ item.zh }}</span><span class="i18n en">{{ item.en }}</span></a>
+            </li>
           {% endfor %}
-          <li class="masthead__menu-item masthead__menu-lang-item"><a href="{% if page.lang == 'en' %}/{% else %}/en/{% endif %}">{% if page.lang == 'en' %}中文{% else %}EN{% endif %}</a></li>
+          <li class="masthead__menu-item masthead__menu-lang-item"><a href="{% if page.lang == 'en' %}/{% else %}/en/{% endif %}" data-en-href="/"><span class="i18n zh">EN</span><span class="i18n en">中文</span></a></li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

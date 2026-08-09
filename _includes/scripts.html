@@ -1,4 +1,14 @@
 <script src="/assets/js/main.min.js"></script>
 
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    if (document.documentElement.classList.contains('ui-en')) {
+      document.querySelectorAll('a[data-en-href]').forEach(function (a) {
+        a.setAttribute('href', a.getAttribute('data-en-href'));
+      });
+    }
+  });
+</script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
