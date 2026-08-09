@@ -1,0 +1,15 @@
+---
+permalink: /posts/
+title: "Posts"
+excerpt: ""
+author_profile: true
+---
+
+{% for post in site.posts %}
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
+{{ post.excerpt }}
+<hr>
+{% else %}
+<p>No posts yet.</p>
+{% endfor %}

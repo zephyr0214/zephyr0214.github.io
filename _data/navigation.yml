@@ -20,6 +20,9 @@ main:
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
+
+  - title: "Posts"
+    url: "/posts/"
   
   # - title: "Leadership Experience"
   #   url: "/#-leadership-experience"

@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yang Zhang"
 description              : "Undergraduate Student majoring in Surveying and Mapping Engineering"
-repository               : "All0zy/All0zy.github.io"
+repository               : "zephyr0214/zephyr0214.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -129,6 +129,14 @@ defaults:
     values:
       layout: default
       author_profile: true
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      author_profile: false
+      permalink: /posts/:title/
 
 
 # Sass/SCSS
