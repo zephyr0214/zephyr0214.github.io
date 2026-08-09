@@ -20,22 +20,22 @@ zh:
 
 en:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/en/#about-me"
 
   - title: "Educations"
-    url: "/#educations"
+    url: "/en/#educations"
 
   - title: "Research Experience"
-    url: "/#research-experience"
+    url: "/en/#research-experience"
 
   - title: "Software Copyrights"
-    url: "/#software-copyrights"
+    url: "/en/#software-copyrights"
 
   - title: "Patents"
-    url: "/#patents"
+    url: "/en/#patents"
 
   - title: "Honors and Awards"
-    url: "/#honors-and-awards"
+    url: "/en/#honors-and-awards"
 
   - title: "Posts"
     url: "/posts/"
