@@ -1,13 +1,29 @@
-# main links links
-main:
+# main links (zh = 中文界面, en = English interface)
+zh:
+  - title: "教育经历"
+    url: "/#educations"
+
+  - title: "科研经历"
+    url: "/#research-experience"
+
+  - title: "软件著作权"
+    url: "/#software-copyrights"
+
+  - title: "专利"
+    url: "/#patents"
+
+  - title: "荣誉奖项"
+    url: "/#honors-and-awards"
+
+  - title: "文章"
+    url: "/posts/"
+
+en:
   - title: "About Me"
     url: "/#about-me"
 
   - title: "Educations"
     url: "/#educations"
-
-  # - title: "Publications"
-  #   url: "/#-publications"
 
   - title: "Research Experience"
     url: "/#research-experience"
@@ -22,16 +38,4 @@ main:
     url: "/#honors-and-awards"
 
   - title: "Posts"
-    url: "/posts"
-  
-  # - title: "Leadership Experience"
-  #   url: "/#-leadership-experience"
-
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
-
-  # - title: "Internships"
-  #   url: "/#-internships"
-
-  # - title: "News"
-  #   url: "/#-news"
+    url: "/posts/"
