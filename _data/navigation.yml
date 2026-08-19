@@ -41,3 +41,9 @@ main:
     en: "Posts"
     url_zh: "/posts/"
     url_en: "/en/posts/"
+
+  - key: photos
+    zh: "照片墙"
+    en: "Photo Gallery"
+    url_zh: "/photos/"
+    url_en: "/photos/?lang=en"
