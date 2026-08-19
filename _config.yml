@@ -71,7 +71,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - _photos
 exclude:
   - docs
   - google_scholar_crawler
